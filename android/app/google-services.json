@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780599452982",
+    "project_id": "asroo-cdcb1",
+    "storage_bucket": "asroo-cdcb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780599452982:android:4720324081906a969a3f97",
+        "android_client_info": {
+          "package_name": "com.example.asroo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780599452982-4r1dahub10f51t7micr3o958sae9552s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjwb7vERvFeqsXf_1PgqpjdSmMgCBHCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780599452982-4r1dahub10f51t7micr3o958sae9552s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
